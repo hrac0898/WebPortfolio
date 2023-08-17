@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+  list-style: none;
+  text-decoration: none;
+  scroll-behavior: smooth;
+}
+body {
+  background-image: url(./images/solid-concrete-wall-textured-backdrop_53876-129493.avif);
+  background-repeat: none;
+  background-size: auto;
+}
+
+h2,
+h3 {
+  text-transform: uppercase;
+}
+
+#main-nav {
+  background-color: rgb(9, 10, 10);
+  color: #020312;
+}
+
+.content {
+  margin-top: 15px;
+}
+
+.icontools h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+.icontools img {
+  height: 90px;
+}
